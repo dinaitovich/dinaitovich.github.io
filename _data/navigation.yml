@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url:"_publications/Publications_list.md" #/publications/
+    url:"/_publications/Publications_list.md" #/publications/
 
   - title: "Talks"
     url: /talks/    
