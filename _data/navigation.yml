@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /_publications/Publications_list.md/
+    url: /_publications/Publications_list.md
     #url: "https://github.com/dinaitovich/dinaitovich.github.io/blob/a4c3ee28acea7151be437fec7a0a8bf138195f7b/_publications/Publications_list.md"#/_publications/Publications_list.md #/publications/ 
 
   - title: "Talks"
@@ -18,11 +18,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+   # url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    #url: /cv/
+    url: /_pages/CVDina_for_online_06.2024.pdf
+#  - title: "Guide"
+  #  url: /markdown/
