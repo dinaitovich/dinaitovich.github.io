@@ -1,5 +1,4 @@
-## Publications
-### Peer-reviewed journals
+## Peer-reviewed journals
 
 1.	Kimchi, R., Devyatko, D., Sabary, S. (2023). Perceptual organization and visual awareness: the case of amodal completion. Frontiers in Psychology. 14. 1201681. (Journal IF WoS 2022 4.232)
 2.	Devyatko, D., Kimchi, R. (2020). Visual awareness is essential for grouping based on mirror symmetry. Special issue: “Symmetry of Perception and Behaviour”, Symmetry. 12(11). 1872. (Journal IF WoS 2020 2.645).
