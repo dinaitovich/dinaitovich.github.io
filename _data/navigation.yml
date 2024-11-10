@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /files/Publications_list
+    url: Publications.md
     #url: "https://github.com/dinaitovich/dinaitovich.github.io/blob/a4c3ee28acea7151be437fec7a0a8bf138195f7b/_publications/Publications_list.md"#/_publications/Publications_list.md #/publications/ 
 
   - title: "Talks"
