@@ -1,5 +1,5 @@
-# Publications
-## Peer-reviewed journals
+**Publications**
+#### Peer-reviewed journals
 
 1.	Kimchi, R., Devyatko, D., Sabary, S. (2023). Perceptual organization and visual awareness: the case of amodal completion. Frontiers in Psychology. 14. 1201681. (Journal IF WoS 2022 4.232)
 2.	Devyatko, D., Kimchi, R. (2020). Visual awareness is essential for grouping based on mirror symmetry. Special issue: “Symmetry of Perception and Behaviour”, Symmetry. 12(11). 1872. (Journal IF WoS 2020 2.645).
@@ -12,10 +12,10 @@
 9.	Devyatko, D. (2011) Attentional distribution affects motion-induced blindness. Journal of Russian and East European Psychology, vol. 45 (5), September-October. P. 30-44. (Journal IF Google Scholar Metrics 0.08)
 10.	Devyatko, D. & Falikman, M. (2009). Limitations of downward influences on processing of visual information in conditions of motion-induced blindness. Voprosy Psychologii (The Problems of Psychology), vol.2, March-April. P.128 134. (In Russian). (Journal IF SjR 2019 0.17)
 
-### Submitted and in preparation
+#### Submitted and in preparation
 1.	Devyatko, D., Kimchi, R. (in preparation) The role of visual awareness in processing of good continuation.
 
-## Conference Abstracts and Proceedings
+#### Conference Abstracts and Proceedings
 1.	Devyatko, D., Sabary, S., & Kimchi, R.  (2017, August). Can organization into a configuration take place in the absence of visual awareness? Poster presented at the European Conference on Visual Perception 2017, Berlin, Germany. Retrieved from URL: (http://journals.sagepub.com/page/pec/collections/ecvp-abstracts/index/ecvp-2017) on [August 30], p.201.
 2.	Devyatko, D., Sabary, S., & Kimchi, R. (2017). Can perceptual grouping by luminance similarity or by element connectedness take place without visual awareness? -Cognitive science in Moscow: New research. [Abstracts]. Edited by Pechenkova, E. V. and Falikman, M. V. Moscow, 2017. P. 423-427.
 3.	Devyatko, D., Sabary, S., & Kimchi, R. (2016). No evidence for perceptual grouping in the absence of visual consciousness and preferred poster presentation. The 39th ECVP Booklet. Barcelona. P. 26.
