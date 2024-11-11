@@ -1,4 +1,7 @@
-# Publications
+---
+title: "Publications"
+layout: page
+---
 ## Peer-reviewed journals
 
 1.	Kimchi, R., Devyatko, D., Sabary, S. (2023). Perceptual organization and visual awareness: the case of amodal completion. Frontiers in Psychology. 14. 1201681. (Journal IF WoS 2022 4.232)
