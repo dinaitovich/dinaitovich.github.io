@@ -6,5 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an experienced vision scientist with a strong foundation in cognitive research, experimental design, statistical analysis, eye tracking, and programming. I used to study such aspects of human visual perception as illusions, attention, unconscious processing and perceptual grouping.
-Now I am interested in applying my reasearch experince to different fileds of everyday life.
+I am an experienced vision scientist with a strong foundation in cognitive research, experimental design, statistical analysis, eye tracking, and programming. My work has explored core aspects of visual perception, including visual illusions, attention, unconscious processing, and perceptual organization.
+
+I am now interested in applying my research expertise to practical challenges in diverse fields. I’m especially drawn to opportunities that bridge scientific insight with real-world impact — whether in data analysis, human-centered design, applied cognition, or interdisciplinary problem-solving.
