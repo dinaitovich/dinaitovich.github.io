@@ -1,2 +1,3 @@
-Hi there, I am an experienced vision scientist with a strong foundation in cognitive research, experimental design, statistical analysis, eye tracking, and programming. 
-Here I am going to share my projects.
+I am an experienced vision scientist with a strong foundation in cognitive research, experimental design, statistical analysis, eye tracking, and programming. My work has explored core aspects of visual perception, including visual illusions, attention, unconscious processing, and perceptual organization.
+
+I am now interested in applying my research expertise to practical challenges in diverse fields. I’m especially drawn to opportunities that bridge scientific insight with real-world impact — whether in data analysis, human-centered design, applied cognition, or interdisciplinary problem-solving.
